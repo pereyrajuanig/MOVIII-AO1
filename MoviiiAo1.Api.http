@@ -1,0 +1,22 @@
+@host = http://localhost:5278
+
+### Login (JSON body)
+POST {{host}}/api/auth/login
+Content-Type: application/json
+
+{
+  "usuario": "admin",
+  "password": "1234"
+}
+
+###
+
+### Lista minimal (sin JWT)
+GET {{host}}/minimal/contactos
+
+###
+
+### Contacto por id (agregar header Authorization: Bearer <token> del login)
+GET {{host}}/api/contacto/1
+
+###
