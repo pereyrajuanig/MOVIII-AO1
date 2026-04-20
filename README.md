@@ -2,7 +2,9 @@
 
 ## Video de demostración
 
-<video src="https://github.com/user-attachments/assets/3e7bf53f-fb2c-4e2c-bb83-f270fe2678e9" controls width="100%">Tu navegador no reproduce el video embebido.</video>
+<video src="https://raw.githubusercontent.com/pereyrajuanig/MOVIII-AO1/master/AO1-MOVIII-DEMO.mp4" controls width="100%">Tu navegador no reproduce el video embebido.</video>
+
+[Abrir el archivo en el repo](./AO1-MOVIII-DEMO.mp4)
 
 Hola, este es mi proyecto para **Programación de aplicaciones móviles III**. Es una Web API en **.NET** para gestionar contactos en memoria, con **Swagger**, un endpoint **minimal** y autenticación con **JWT**.
 
