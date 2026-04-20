@@ -2,11 +2,11 @@
 
 ## Video de demostración
 
-GitHub **no permite** incrustar un reproductor HTML (`<video>`) en el `README`: el bloque se ignora o no carga. Para ver el video, abrí el archivo en el repo (en el navegador suele aparecer el reproductor integrado):
 
-**[Reproducir AO1-MOVIII-DEMO.mp4 en GitHub](https://github.com/pereyrajuanig/MOVIII-AO1/blob/master/AO1-MOVIII-DEMO.mp4)**
 
-Ruta en el repo: `AO1-MOVIII-DEMO.mp4` (raíz del proyecto).
+https://github.com/user-attachments/assets/00d61bae-2cb5-47ee-9852-af7b7fe2e5b1
+
+
 
 Hola, este es mi proyecto para **Programación de aplicaciones móviles III**. Es una Web API en **.NET** para gestionar contactos en memoria, con **Swagger**, un endpoint **minimal** y autenticación con **JWT**.
 
