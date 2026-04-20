@@ -1,5 +1,11 @@
 # MoviiiAo1.Api – Actividad obligatoria 1
 
+## Video de demostración
+
+<video src="./AO1-MOVIII-DEMO.mp4" controls width="100%">Tu navegador no reproduce el video embebido.</video>
+
+[También puedes abrir o descargar el archivo en GitHub](./AO1-MOVIII-DEMO.mp4).
+
 Hola, este es mi proyecto para **Programación de aplicaciones móviles III**. Es una Web API en **.NET** para gestionar contactos en memoria, con **Swagger**, un endpoint **minimal** y autenticación con **JWT**.
 
 ## Qué tiene
