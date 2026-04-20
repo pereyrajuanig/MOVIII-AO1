@@ -43,10 +43,6 @@ Los contactos de ejemplo tienen **id 1 y 2** para probar el GET por id.
 
 Los contactos se guardan en una **lista en memoria**, así que si cierro la app se pierden los datos. El `ContactoService` lo registré como **Singleton** para que el minimal y el controlador usen la misma lista.
 
-## Entrega
-
-Para el zip saqué las carpetas **bin** y **obj** como pidieron, y adjunto captura de Swagger y un ejemplo de JWT.
-
 ---
 
 *Cualquier cosa me pueden escribir. Saludos.*
